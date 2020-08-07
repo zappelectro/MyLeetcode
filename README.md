@@ -5,3 +5,4 @@ List:
 - Power of Four
 - Arranging Coins
 - Find All Duplicates in an Array
+- Shuffle the Array
