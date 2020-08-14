@@ -9,3 +9,4 @@ List:
 - [Maximum Subarray Sum](https://leetcode.com/problems/maximum-subarray/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Longest Pallindrome](https://leetcode.com/problems/longest-palindrome/)
+- [Majority Element](https://leetcode.com/problems/majority-element/)
