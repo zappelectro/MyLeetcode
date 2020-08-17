@@ -1,7 +1,11 @@
-# MyLeetcode
-This repository contains a list of my Leetcode solved questions and solutions.
+## MyLeetcode
+#This repository contains a list of my Leetcode solved questions and solutions.
 
-List:
+30 Days of DP:
+- [Divisor Game](https://leetcode.com/problems/divisor-game/)
+- [Range Sum Queries Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+
+Regular List:
 - [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
