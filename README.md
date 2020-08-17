@@ -1,5 +1,5 @@
-## MyLeetcode
-# This repository contains a list of my Leetcode solved questions and solutions.
+# MyLeetcode
+## This repository contains a list of my Leetcode solved questions and solutions.
 
 30 Days of DP:
 - [Divisor Game](https://leetcode.com/problems/divisor-game/)
