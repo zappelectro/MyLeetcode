@@ -4,6 +4,7 @@
 30 Days of DP:
 - [Divisor Game](https://leetcode.com/problems/divisor-game/)
 - [Range Sum Queries Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+- [House Robber](https://leetcode.com/problems/house-robber/)
 
 Regular List:
 - [Power of Four](https://leetcode.com/problems/power-of-four/)
