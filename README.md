@@ -6,7 +6,7 @@
 - [Range Sum Queries Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [House Robber](https://leetcode.com/problems/house-robber/)
 
-Regular List:
+Easy Problems List:
 - [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
