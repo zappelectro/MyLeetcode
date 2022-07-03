@@ -19,3 +19,7 @@ Easy Problems List:
 Medium Problems List:
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+Striver SDE Sheet:
+- [Next Permutation](https://leetcode.com/problems/next-permutation/)
+- [Populating Next Right Pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
